@@ -1,2 +1,0 @@
-# formularioteste
-:bulb: Formulario teste
