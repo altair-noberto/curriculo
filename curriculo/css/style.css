@@ -72,9 +72,9 @@ body.scale-cv{
     --h1-font-size: .938rem;
     --h2-font-size: .938rem;
     --h3-font-size: .875rem;
-    --normal-font-size: .714rem;
+    --normal-font-size: .813rem;
     --small-font-size: .75rem;
-    --smaller-font-size: .580rem;
+    --smaller-font-size: .620rem;
 }
 
 /*========== Botao gerar PDF ==========*/
